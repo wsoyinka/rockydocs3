@@ -4,7 +4,7 @@ author: Wale Soyinka
 contributors: 
 ---
 
-# Installing Rocky Linux 10
+# Installing Rocky Linux 10.0
 
 This is a detailed guide for installing a 64-bit version of the Rocky Linux distribution on a standalone system. We will be performing a server-class install. We will step through the installation and customization steps in the following sections.
 
